@@ -6,4 +6,4 @@ This way, you can just go on your favourite Torrent Client and paste all of them
 ### Setup
 
 Just download all the files and place them in a single folder.
-Then, navigate to (Chrome Extensions Page)[chrome://extensions], make sure developer options is enabled and click "load unpacked", uploading your folder. That's it!
+Then, navigate to chrome://extensions, make sure developer options is enabled and click "load unpacked", uploading your folder. That's it!
